@@ -1,6 +1,6 @@
 # mix-page
 
-> A Vue.js project
+> 关于多页面和单页面同时共用的配置项目
 
 ## Build Setup
 
